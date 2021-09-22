@@ -6,7 +6,10 @@ namespace AlphabetTriangle
     {
         static void Main(string[] args)
         {
-           
+            //necessary variables
+            char ch = 'A';
+            int i, j, k, m;
+
         }
     }
 }
